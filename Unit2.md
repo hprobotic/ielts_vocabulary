@@ -5,25 +5,25 @@
 #### Nouns:
 
 - ability: `the fact that sb/sth is able to do sth`
-- adolescent
-- behaviour
-- childhood
-- concept
-- consequesnce
-- gesture
-- growth
-- height
-- imagination
-- infancy
-- infant
-- knowledge
-- maturity
-- memory
-- milestone
-- mind
-- peers
-- period
-- phase
+- adolescent: `in the process of developing from a child into adult`
+- behaviour: `the way in which one acts or conducts onself, especially towards others`
+- childhood: `the state or period of being a child`
+- concept: `an abstract idea`
+- consequence: `a result or effect, typically one that is unwelcome or upleasant`
+- gesture: `a movement of a part of the body, especially a hand or the head, to express an idea or meaning`
+- growth: `the process of increasing in size`
+- height: `the measurement of someone or something from head to foot or from base to top`
+- imagination: `the ability to create pictures in your mind; the part of your mind that does this`
+- infancy: `the time when a child is a baby or very young` or `the early development of sth`
+- infant: `a baby or very young child`
+- knowledge: `the information, understanding and  skills that you gain through education or expericence`
+- maturity: `the quality of thinking and behaving in a sensible, adult manner`
+- memory: `the abily to remember things`
+- milestone: `the very important of stage or event in the development of sth`
+- mind: `the part of a person that makes them able to be aware of things, to think and to feel`
+- peers: `a person who is the same age or who has the same social status as you`
+- period: `a particular lenght of time`
+- phase: `a stage in a process of change or development`
 - rate
 - reminder
 - social skills
