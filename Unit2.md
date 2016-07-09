@@ -24,13 +24,13 @@
 - peers: `a person who is the same age or who has the same social status as you`
 - period: `a particular lenght of time`
 - phase: `a stage in a process of change or development`
-- rate
-- reminder
-- social skills
-- skill
-- stage
-- toddler
-- transition
+- rate: `a measureement of the speed at which sth happens`
+- reminder: `something that makes you think about or remember sb/sth, that you have forgotten or would like to forget`
+- social skills: ``
+- skill: `the ability to do sth well`
+- stage: `a period or state that sth/sb passes through while developing or makeing progress`
+- toddler: `a child who has only recently learn to walk`
+- transition: `the process or a period of changing from one state or condition to another`
 
 
 #### Adjectives
