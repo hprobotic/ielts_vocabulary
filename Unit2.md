@@ -3,3 +3,5 @@
 ## Words list:
 
 ### Nouns:
+
+ability: the fact that sb/sth is able to do sth
