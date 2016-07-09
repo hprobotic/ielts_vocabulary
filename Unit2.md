@@ -82,5 +82,6 @@
 
 ## Script:
 
-Recording 2a:
+#### Recording 2a:
+
 In the first years of a child's life many important milestones are reached. By the end of the first year a baby will have already acquire some social skills. He will enjoy imitating people and will also test parental responses to his behaviour. For example, what do my parents do if I refuse food? In terms of movement, an infant will be able to reach a sitting position unassisted and pull himself up to stand. He may be able to walk momentarily without support. As far as communication is concerned, he will be able to use simple gestures such as shaking his head for 'no', say 'mama; and 'dada' and he will try to imitate words. When it comes to cognitive develoopment, he will be able to find hidden objects easily and use objects correctly suc as drinking from a cup.
