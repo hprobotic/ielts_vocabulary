@@ -93,6 +93,8 @@ Between the ages of six and twelve, a child reaches what is termed 'middle child
 
 #### Recording 2b:
 
+---
+
 <b>Teacher:</b> What do you remember about your early childhood?
 
 <b>Student:</b> Oh, I remember being very happy! I have a lot of great memories of my childhood. In fact, my sisters and I often reminisce about it. Perhaps when you look back everything seems better, but our summer holidays seemed to go on forever and the sun always seemed to be shining. Nowadays, if we ever have a hot summer day, it always reminds me of my childhood holidays.
