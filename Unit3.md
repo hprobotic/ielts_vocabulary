@@ -57,4 +57,22 @@ The heart is considered to be a muscle and, just like any other muscle in your b
 
 <b>Narrator</b>: Part 2
 
-So, what can you do to lose wieght? Well, exercise is by far the best way. Burning calories and working off the fat will help you look and feel better. Regular exercise helps you burn calories faster, even when you are sitting still. But what  is the best  type of exercise for your heart? Well, studies have shown that aerobic exercise causes
+So, what can you do to lose wieght? Well, exercise is by far the best way. Burning calories and working off the fat will help you look and feel better. Regular exercise helps you burn calories faster, even when you are sitting still. But what  is the best  type of exercise for your heart? Well, studies have shown that aerobic exercise causes you to breathe more deeply and makes your heart work harder to pump blood. Aerobic exercise also raises your heart rate and thus burns calories. Common examples of aerobic exercise include walking briskly, jogging, runing, swmming and cycling.
+
+People are often unsure just how much exercise they need Again, recent studies can help. These have shown that it's best to begin slowly and gradually work up to 30 minutes of exercise, four to six times a week. However, your doctor may make a different recommendation based on your helth. For example, it may be best to start wit only a couple of minutes of exercise or begin at a fairly slow pace. If you are not used to exercise, be sure to pay careful attention to your body. One sure sign that you may be overdoing it is if you can't carry on conversation while you exercise . To give your body the chance to recover, it's also best to alternate exercise days with rest days.
+
+### Recording 3c
+
+bath, bathe, birth, breath, breathe, death, growth, health, mouth (v), mouth (n), teeth, teethe, writhe
+
+### Recording 3d
+
+1. I took a deep breath before diving into the water.
+2. The baby's crying because he's teething. He got two new teeth only yesterday.
+3. Old people should take card of their health.
+4. He's been so happy since the birth of his sone.
+5. The pain was so bad she was writhing in agony.
+6. He can't breathe. You need to get him to hospital.
+
+
+
