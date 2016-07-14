@@ -51,3 +51,6 @@
 
 The heart is considered to be a muscle and, just like any other muscle in your body, your diet has a direct impact on the way that it works. The food you eat  every day can affect the way that blood flows through you heart and arteries . A diet that is high in fat can gradually cause a build-up in your arteries that slows down the blood  flows through your heart and arteries that slows down the blood flow and can even block small arteries. If an artery that carries blood to the heart becomes blocked, the heart muscle can die . This is know as heart attack and sufferers must receive treatment quickly. If the blockage occurs in an artery that carries blood to the brain, part of the brain can die. This is know as a stroke. The effects of a stroke can be debilitatiing and there is no know cure. The correct diet can help you control your weight and keep your arteries clear, thereby reducing the risk of heart problems and stroke.
 
+<b>Narrator</b>: Part 2
+
+So, what can you do to lose wieght? Well, exercise is by far the best way. Burning calories and working off the fat will help you look and feel better. Regular exercise helps you burn calories faster, even when you are sitting still. But what  is the best  type of exercise for your heart? Well, studies have shown that aerobic exercise causes
