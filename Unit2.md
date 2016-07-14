@@ -94,6 +94,9 @@ Between the ages of six and twelve, a child reaches what is termed 'middle child
 #### Recording 2b:
 
 <b>Teacher:</b> What do you remember about your early childhood?
+
 <b>Student:</b> Oh, I remember being very happy! I have a lot of great memories of my childhood. In fact, my sisters and I often reminisce about it. Perhaps when you look back everything seems better, but our summer holidays seemed to go on forever and the sun always seemed to be shining. Nowadays, if we ever have a hot summer day, it always reminds me of my childhood holidays.
+
 <b>Teacher:</b> Do you think you have a good memory or a poor memory?
-<b>Student:<?b> Well, when I was younger I think I used to have a very good memory. I used to be able to memories long lists of dates without any trouble. But i find it harder and harder to remember things these  days, so now I'd say my memory is quite poor. When I'm studying I find I have to think up strategies to help me, like visualising something associated with a particular word. I even forget important things sometimes, so I have to write myself little notes as a reminder.
+
+<b>Student:</b> Well, when I was younger I think I used to have a very good memory. I used to be able to memories long lists of dates without any trouble. But i find it harder and harder to remember things these  days, so now I'd say my memory is quite poor. When I'm studying I find I have to think up strategies to help me, like visualising something associated with a particular word. I even forget important things sometimes, so I have to write myself little notes as a reminder.
